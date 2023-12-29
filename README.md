@@ -1,2 +1,2 @@
 # Weather_App
-It is an android app made by using kotlin and android studio for api I use open weather api.
+Weathery is real-time, location based weather forecast app. I have used Open weather api for same.And developed in android studio.
